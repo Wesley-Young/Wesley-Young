@@ -18,6 +18,7 @@
 
   <img width="192" src="Cecilia 1.png" alt="cecilia1"/>
   <img width="192" src="Cecilia 2.png" alt="cecilia2"/>
+  <img width="192" src="Cecilia 3.jpg" alt="cecilia3"/>
 
 - **要 楽奈**@MyGO!!!!!（有趣的女人）
 
