@@ -42,6 +42,7 @@
 
 - [**projectGDT**](https://github.com/projectGDT) (绝赞开发中！预计暑假上线)
 - [keke-bot](https://github.com/Wesley-Young/keke-bot) (咕咕咕)
+- [TsinghuaMemes](https://github.com/TsinghuaMemes/TsinghuaMemes)
 - 寰宇文明 (画饼阶段)
 - TimelessMC 服务器 (群号 688547121)
 
