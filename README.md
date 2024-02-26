@@ -23,6 +23,7 @@
 - **要 楽奈**@MyGO!!!!!（有趣的女人）
 
   <img width="192" src="Raana.png" alt="raana"/>
+  <img width="192" src="Raana 2.jpg" alt="raana2"/>
   
 - **初音 ミク**@Crypton Future Media（窄范围听歌，高强度 Activitist）
   
