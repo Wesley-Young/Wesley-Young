@@ -36,6 +36,28 @@ I am also working in [Student Association of Science and Technology, Dept. Phys.
 
   我第一门学习的编程语言是 Visual Basic。
 
-- I am convinced that JavaScript (TypeScript / ECMAScript) is a 'full-stack' language, which can power both frontend and backend.
+## My beliefs
 
-  我笃信 JavaScript（或者说 TypeScript、ECMAScript）是一门能同时驱动前端和后端的“全栈”语言。
+- AI is to assist human beings, not to replace them. AI is intended to complete repetitive and boring tasks (such as coding, lol), and to ensure that human beings can focus on more creative and meaningful work.
+
+  AI 是为了辅助人类，而不是取代人类。AI 的目的是完成重复乏味的工作（比如写代码），从而保证人类能集中精力完成更有创造力和意义的工作。
+
+- JavaScript (TypeScript / ECMAScript) is a 'full-stack' language, which can power both frontend and backend.
+
+  JavaScript（或者说 TypeScript、ECMAScript）是一门能同时驱动前端和后端的“全栈”语言。
+
+- Open-source software is the future. Not only free, but also more secure and reliable.
+
+  开源软件是我们的未来。它们不仅免费，而且更加安全可靠。
+
+- Documentation is as important as code. At least, you code because someone else is going to use it.
+
+  文档和代码同等重要。至少，你写代码是因为有人要用它。
+
+- Users know users best. You develop it? You use it.
+
+  用户最了解用户。开发者有义务使用自己的产品。
+
+- Communities should not expect that big companies will listen to them. When a company did something wrong, instead of correcting it, the community should just find another way to solve the problem. Let the market give the company a lesson.
+
+  社区不应该寄希望于大公司听取他们的意见。当一个公司做错了事，社区与其尝试纠正，不如寻找其他解决问题的途径。市场会给公司一个教训。
