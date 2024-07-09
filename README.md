@@ -65,3 +65,7 @@ I am also working in [Student Association of Science and Technology, Dept. Phys.
 - Communities should not expect that big companies will listen to them. When a company did something wrong, instead of correcting it, the community should just find another way to solve the problem. Let the market give the company a lesson.
 
   社区不应该寄希望于大公司听取他们的意见。当一个公司做错了事，社区与其尝试纠正，不如寻找其他解决问题的途径。市场会给公司一个教训。
+
+- For a university, the best way to teach is to let students just do it, but always acts as a rescue helicopter hovering over them.
+
+  对于大学而言，最好的教学方式是让学生自己去做，但始终作为一架直升机悬在他们上空，以备支援。
