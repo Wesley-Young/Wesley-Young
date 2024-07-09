@@ -42,6 +42,10 @@ I am also working in [Student Association of Science and Technology, Dept. Phys.
 
   AI 是为了辅助人类，而不是取代人类。AI 的目的是完成重复乏味的工作（比如写代码），从而保证人类能集中精力完成更有创造力和意义的工作。
 
+- I prefer to bother myself rather than others. If I can solve a problem by myself, I will try my best to do it.
+
+  我更愿意自己麻烦自己，而不是麻烦别人。如果我能自己解决一个问题，我会尽力去做。
+
 - JavaScript (TypeScript / ECMAScript) is a 'full-stack' language, which can power both frontend and backend.
 
   JavaScript（或者说 TypeScript、ECMAScript）是一门能同时驱动前端和后端的“全栈”语言。
