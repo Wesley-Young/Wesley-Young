@@ -18,9 +18,9 @@ Here are some projects I am currently working on:
 
   **projectGDT**，基于 Minecraft（Java 版 & 基岩版）账户的身份认证系统，致力于打造互联互通的 Minecraft 世界。**坑了。**
 
-- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), an epoch-making (however not completely opensource) QQ Bot framework.
+- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), an epoch-making QQ Bot framework.
 
-  **NapCatQQ**，划时代（然而并非完全开源）的 QQ 机器人框架。
+  **NapCatQQ**，划时代的 QQ 机器人框架。
 
 I am also working in [Student Association of Science and Technology, Dept. Phys.](https://github.com/dpsast) (abbr. DPSAST) of Tsinghua University. My work is maintaining the server of the association and developing new features, and I also have some projects for DPSAST.
 
