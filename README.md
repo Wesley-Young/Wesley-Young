@@ -1,8 +1,8 @@
 # Hi there!
 
-My name is Wesley F. Young, an undergraduate student majoring in [Physics](https://www.phys.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I was once an addicted Minecraft player, but I am fading out because of increasing pressure from my major. However, I am still concerned about Minecraft developers community and willing to lend a helping hand.
+My name is Wesley F. Young, an undergraduate student majoring in [Physics](https://www.phys.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I ~~was once~~ am an addicted Minecraft player ~~, but I am fading out because of increasing pressure from my major~~. However, I am still concerned about Minecraft developers community and willing to lend a helping hand.
 
-你好！我是魏飞扬，清华大学物理系的一名本科生。我曾经是狂热的 Minecraft 玩家，但现在因为日渐增长的学业压力而逐渐淡出。但我仍然很关心 Minecraft 的开发者社区，也很愿意提供帮助。
+你好！我是魏飞扬，清华大学物理系的一名本科生。我~~曾经~~是狂热的 Minecraft 玩家 ~~，但现在因为日渐增长的学业压力而逐渐淡出~~。但我仍然很关心 Minecraft 的开发者社区，也很愿意提供帮助。
 
 ## My projects
 
