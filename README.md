@@ -10,17 +10,17 @@ Here are some projects I am currently working on:
 
 这是一些我目前正在着手开发的项目：
 
-- [**bedrock-stdhub**](https://github.com/bedrock-stdhub), a plugin loader for unmodified Bedrock Dedicated Server, in response to Microsoft's stopping offering PDB files for BDS.
-
-  **bedrock-stdhub**，适用于无魔改 BDS 服务端的插件加载器，作为对微软停止提供 BDS 的符号文件的回应。
-
-- [**projectGDT**](https://github.com/projectGDT), an identity system based on Minecraft accounts (both Java and Bedrock), for a more connected Minecraft world. **Delayed.**
-
-  **projectGDT**，基于 Minecraft（Java 版 & 基岩版）账户的身份认证系统，致力于打造互联互通的 Minecraft 世界。**坑了。**
-
 - [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), an epoch-making QQ Bot framework.
 
   **NapCatQQ**，划时代的 QQ 机器人框架。
+
+- [**bedrock-stdhub**](https://github.com/bedrock-stdhub), a plugin loader for unmodified Bedrock Dedicated Server, in response to Microsoft's stopping offering PDB files for BDS. _[LeviLamina](https://github.com/LiteLDev/LeviLamina) could persist even without PDB files. Delayed._
+
+  **bedrock-stdhub**，适用于无魔改 BDS 服务端的插件加载器，作为对微软停止提供 BDS 的符号文件的回应。_LeviLamina 能够在没有符号文件的情况下继续开发，故坑了。_
+
+- [**projectGDT**](https://github.com/projectGDT), an identity system based on Minecraft accounts (both Java and Bedrock), for a more connected Minecraft world. _Delayed._
+
+  **projectGDT**，基于 Minecraft（Java 版 & 基岩版）账户的身份认证系统，致力于打造互联互通的 Minecraft 世界。_坑了。_
 
 I am also working in [Student Association of Science and Technology, Dept. Phys.](https://github.com/dpsast) (abbr. DPSAST) of Tsinghua University. My work is maintaining the server of the association and developing new features, and I also have some projects for DPSAST.
 
