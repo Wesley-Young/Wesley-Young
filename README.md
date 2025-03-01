@@ -1,8 +1,8 @@
 # Hi there!
 
-My name is Wesley F. Young, an undergraduate student majoring in [Physics](https://www.phys.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I ~~was once~~ am an addicted Minecraft player ~~, but I am fading out because of increasing pressure from my major~~. However, I am still concerned about Minecraft developers community and willing to lend a helping hand.
+My name is Wesley F. Young, an undergraduate student majoring in [Physics](https://www.phys.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/)
 
-你好！我是魏飞扬，清华大学物理系的一名本科生。我~~曾经~~是狂热的 Minecraft 玩家 ~~，但现在因为日渐增长的学业压力而逐渐淡出~~。但我仍然很关心 Minecraft 的开发者社区，也很愿意提供帮助。
+你好！我是魏飞扬，清华大学物理系的一名本科生。
 
 ## My projects
 
@@ -10,23 +10,16 @@ Here are some projects I am currently working on:
 
 这是一些我目前正在着手开发的项目：
 
-- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), an epoch-making QQ Bot framework.
+- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), modernized bot framework based on NTQQ
 
-  **NapCatQQ**，划时代的 QQ 机器人框架。
-
-- [**bedrock-stdhub**](https://github.com/bedrock-stdhub), a plugin loader for unmodified Bedrock Dedicated Server, in response to Microsoft's stopping offering PDB files for BDS. _[LeviLamina](https://github.com/LiteLDev/LeviLamina) could persist even without PDB files. Delayed._
-
-  **bedrock-stdhub**，适用于无魔改 BDS 服务端的插件加载器，作为对微软停止提供 BDS 的符号文件的回应。_LeviLamina 能够在没有符号文件的情况下继续开发，故坑了。_
-
-- [**projectGDT**](https://github.com/projectGDT), an identity system based on Minecraft accounts (both Java and Bedrock), for a more connected Minecraft world. _Delayed._
-
-  **projectGDT**，基于 Minecraft（Java 版 & 基岩版）账户的身份认证系统，致力于打造互联互通的 Minecraft 世界。_坑了。_
+- [**tanebi**](https://github.com/LagrangeDev/tanebi), a TypeScript implementation of NTQQ PC protocol
 
 I am also working in [Student Association of Science and Technology, Dept. Phys.](https://github.com/dpsast) (abbr. DPSAST) of Tsinghua University. My work is maintaining the server of the association and developing new features, and I also have some projects for DPSAST.
 
 我同时也在清华大学物理系学生科学与技术协会（简称物理科协）工作。我的工作是维护科协服务器和开发新功能，有着一些为物理科协开发的项目。
 
-## A little more about me? Sure!
+<details>
+<summary>A little more about me? Sure!</summary>
 
 - The anime character in my avatar is Cecilia from comic & TV anime [_Saint Cecilia and Pastor Lawrence_](https://shiroseijyo-anime.com/).
 
@@ -35,8 +28,10 @@ I am also working in [Student Association of Science and Technology, Dept. Phys.
 - The first programming language I learned is Visual Basic. 
 
   我第一门学习的编程语言是 Visual Basic。
+</details>
 
-## My beliefs
+<details>
+<summary>My beliefs</summary>
 
 - AI is to assist human beings, not to replace them. AI is intended to complete repetitive and boring tasks (such as coding, lol), and to ensure that human beings can focus on more creative and meaningful work.
 
@@ -69,3 +64,4 @@ I am also working in [Student Association of Science and Technology, Dept. Phys.
 - For a university, the best way to teach is to let students just do it, but always acts as a rescue helicopter hovering over them.
 
   对于大学而言，最好的教学方式是让学生自己去做，但始终作为一架直升机悬在他们上空，以备支援。
+  </details>
