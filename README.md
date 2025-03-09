@@ -10,9 +10,9 @@ Here are some projects I am currently working on:
 
 这是一些我目前正在着手开发的项目：
 
-- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), modernized bot framework based on NTQQ
-
 - [**tanebi**](https://github.com/LagrangeDev/tanebi), a TypeScript implementation of NTQQ PC protocol
+
+- [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), modern protocol-side framework implemented based on NTQQ
 
 I am also working in [Student Association of Science and Technology, Dept. Phys.](https://github.com/dpsast) (abbr. DPSAST) of Tsinghua University. My work is maintaining the server of the association and developing new features, and I also have some projects for DPSAST.
 
