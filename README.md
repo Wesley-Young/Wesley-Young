@@ -10,7 +10,7 @@ Here are some projects I am currently working on:
 
 这是一些我目前正在着手开发的项目：
 
-- [**tanebi**](https://github.com/LagrangeDev/tanebi), a TypeScript implementation of NTQQ PC protocol
+- [**tanebi**](https://github.com/tanebijs/tanebi), a TypeScript implementation of NTQQ PC protocol
 
 - [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ), modern protocol-side framework implemented based on NTQQ
 
