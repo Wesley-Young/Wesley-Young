@@ -2,16 +2,26 @@
 
 你好！我是魏飞扬，目前就读于清华大学物理系。
 
-## Projects & Jobs
+## Projects
 
-这是一些我目前正在着手开发的项目：
+### Active
 
-- [Saltify 生态系统](https://github.com/SaltifyDev) - 面向新时代的 QQ Bot 解决方案
-  - [saltify](https://github.com/SaltifyDev/saltify) - 跨平台、可扩展的 QQ Bot 框架
-  - [milky](https://github.com/SaltifyDev/milky) - QQ 机器人应用接口标准
-- [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) - NTQQ 协议的高效率 C# 实现
-  - Lagrange.Milky - 基于 Lagrange.Core 的 Milky 协议实现
-- [tanebi](https://github.com/SaltifyDev/tanebi) - NTQQ 协议的 TypeScript 实现
-  - tanebi-milky - 基于 tanebi 的 Milky 协议实现
+| Project                                                 | Language | My Role        | Description             | Status         |
+| ------------------------------------------------------- | -------- | -------------- | ----------------------- | -------------- |
+| [milky](https://github.com/SaltifyDev/milky)            | N/A      | Main Developer | QQ 机器人应用接口标准   | 🔧 Maintaining |
+| [acidify](https://github.com/LagrangeDev/acidify)       | Kotlin   | Main Developer | NTQQ 协议的 Kotlin 实现 | 🔧 Maintaining |
+| [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) | C#       | Maintainer     | NTQQ 协议的 C# 实现     | ⌨️ Developing  |
 
-我同时也在清华大学物理系学生科学与技术协会（简称物理科协）工作。我的工作是维护科协服务器和开发新功能，有着一些为物理科协开发的项目。
+### Inactive
+
+| Project                                                       | Language   | My Role        | Description                  | Status                     |
+| ------------------------------------------------------------- | ---------- | -------------- | ---------------------------- | -------------------------- |
+| [tanebi](https://github.com/SaltifyDev/tanebi)                | TypeScript | Main Developer | NTQQ 协议的 TypeScript 实现  | 👀 Looking for maintainers |
+| [saltify](https://github.com/SaltifyDev/saltify)              | Kotlin     | Main Developer | 跨平台、可扩展的 QQ Bot 框架 | 🏗️ Refactoring             |
+| [projectGDT](https://github.com/projectGDT/project-gdt)       | TypeScript | Main Developer | Minecraft 群服互通开放平台   | 🏗️ Refactoring             |
+| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | C#         | Contributor    | NTQQ 协议的 C# 实现          | 🔒 Archived                |
+
+## Work Experience
+
+- 2025-Present, [Xu Yong](https://iiis.tsinghua.edu.cn/rydw/qzjs/xuyong.htm) 课题组
+- 2024-Present, 清华大学物理系学生科学与技术协会
