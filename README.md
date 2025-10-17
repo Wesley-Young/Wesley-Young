@@ -6,11 +6,12 @@
 
 ### Active
 
-| Project                                                 | Language | My Role        | Description             | Status         |
-| ------------------------------------------------------- | -------- | -------------- | ----------------------- | -------------- |
-| [milky](https://github.com/SaltifyDev/milky)            | N/A      | Main Developer | QQ 机器人应用接口标准   | 🔧 Maintaining |
-| [acidify](https://github.com/LagrangeDev/acidify)       | Kotlin   | Main Developer | NTQQ 协议的 Kotlin 实现 | 🔧 Maintaining |
-| [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) | C#       | Maintainer     | NTQQ 协议的 C# 实现     | ⌨️ Developing  |
+| Project                                                 | Language | My Role        | Description                           | Status         |
+| ------------------------------------------------------- | -------- | -------------- | ------------------------------------- | -------------- |
+| [milky](https://github.com/SaltifyDev/milky)            | N/A      | Main Developer | QQ 机器人应用接口标准                 | 🔧 Maintaining |
+| [acidify](https://github.com/LagrangeDev/acidify)       | Kotlin   | Main Developer | NTQQ 协议的 Kotlin 实现               | 🔧 Maintaining |
+| [Cecilia](https://github.com/Wesley-Young/Cecilia)      | Kotlin   | Main Developer | 基于 Acidify + Compose 的即时聊天软件 | 🔧 Maintaining |
+| [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) | C#       | Maintainer     | NTQQ 协议的 C# 实现                   | ⌨️ Developing  |
 
 ### Inactive
 
