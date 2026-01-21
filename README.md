@@ -9,6 +9,10 @@
   - 技术组成员（2024-2025）
   - 副主席（2025-Present）
 
+## Academic Projects
+
+- [Lauren](https://github.com/Wesley-Young/Lauren) (C#) - Stabilizer quantum circuit experimental platform
+
 ## Hobby Projects
 
 ### Active
