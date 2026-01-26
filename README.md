@@ -2,6 +2,8 @@
 
 你好！我是魏飞扬，目前就读于清华大学物理系。
 
+要来看看我的 [Blog](https://wesley-young.github.io/) 吗？
+
 ## Work Experience
 
 - 2025-Present, 清华大学交叉信息研究院[徐勇](https://iiis.tsinghua.edu.cn/rydw/qzjs/xuyong.htm)课题组，本科生科研训练（Seminar 制）
