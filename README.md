@@ -21,19 +21,18 @@
 
 ### Active
 
-| Project                                                 | Language   | My Role        | Description               | Status         |
-| ------------------------------------------------------- | ---------- | -------------- | ------------------------- | -------------- |
-| [milky](https://github.com/SaltifyDev/milky)            | N/A        | Main Developer | QQ 机器人应用接口标准     | 🔧 Maintaining |
-| [acidify](https://github.com/LagrangeDev/acidify)       | Kotlin     | Main Developer | NTQQ 协议的 Kotlin 实现   | 🔧 Maintaining |
-| [saltify](https://github.com/SaltifyDev/saltify)        | Kotlin     | Main Developer | Kotlin 聊天机器人框架     | ⌨️ Developing  |
-| [Fraq](https://github.com/fraqjs/fraq)                  | TypeScript | Main Developer | TypeScript 聊天机器人框架 | ⌨️ Developing  |
-| [LagrangeV2](https://github.com/LagrangeDev/LagrangeV2) | C#         | Maintainer     | NTQQ 协议的 C# 实现       | ⌨️ Developing  |
+| Project                                                       | Language   | My Role        | Description               | Status         |
+| ------------------------------------------------------------- | ---------- | -------------- | ------------------------- | -------------- |
+| [milky](https://github.com/SaltifyDev/milky)                  | N/A        | Main Developer | QQ 机器人应用接口标准     | 🔧 Maintaining |
+| [acidify](https://github.com/LagrangeDev/acidify)             | Kotlin     | Main Developer | NTQQ 协议的 Kotlin 实现   | 🔧 Maintaining |
+| [saltify](https://github.com/SaltifyDev/saltify)              | Kotlin     | Main Developer | Kotlin 聊天机器人框架     | ⌨️ Developing  |
+| [Fraq](https://github.com/fraqjs/fraq)                        | TypeScript | Main Developer | TypeScript 聊天机器人框架 | ⌨️ Developing  |
+| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | C#         | Maintainer     | NTQQ 协议的 C# 实现       | ⌨️ Developing  |
+| [Cecilia](https://github.com/Wesley-Young/Cecilia)            | TypeScript | Main Developer | Electron 即时聊天软件     | ⌨️ Developing  |
 
 ### Inactive
 
-| Project                                                       | Language   | My Role        | Description                 | Status                     |
-| ------------------------------------------------------------- | ---------- | -------------- | --------------------------- | -------------------------- |
-| [tanebi](https://github.com/SaltifyDev/tanebi)                | TypeScript | Main Developer | NTQQ 协议的 TypeScript 实现 | 👀 Looking for maintainers |
-| [projectGDT](https://github.com/projectGDT/project-gdt)       | TypeScript | Main Developer | Minecraft 群服互通开放平台  | 🏗️ Refactoring             |
-| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) | C#         | Contributor    | NTQQ 协议的 C# 实现         | 🔒 Archived                |
-| [Cecilia](https://github.com/Wesley-Young/Cecilia)            | TypeScript | Main Developer | TUI 即时聊天软件            | 🔒 Archived                |
+| Project                                                 | Language   | My Role        | Description                 | Status                     |
+| ------------------------------------------------------- | ---------- | -------------- | --------------------------- | -------------------------- |
+| [tanebi](https://github.com/SaltifyDev/tanebi)          | TypeScript | Main Developer | NTQQ 协议的 TypeScript 实现 | 👀 Looking for maintainers |
+| [projectGDT](https://github.com/projectGDT/project-gdt) | TypeScript | Main Developer | Minecraft 群服互通开放平台  | 🏗️ Refactoring             |
